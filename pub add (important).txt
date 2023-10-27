@@ -1,0 +1,3 @@
+jangan lupa ketik " flutter pub add flutter_simple_calculator " di terminal
+
+dont forget to write " flutter pub add flutter_simple_calculator " in terminal 
